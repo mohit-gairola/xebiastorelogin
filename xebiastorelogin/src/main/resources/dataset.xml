@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<!--Login Table -->
+<user id="1" password="dbunitPwd" name="dbunitUser" 
+   />
+<user id="2" password="dbunitPwd2" name="dbunitUser2" 
+   />
+   <user id="3" password="dbunitPwd3" name="dbunitUser3" 
+   />
+    <user id="3" password="dbunitPwd4" name="dbunitUser4" 
+   />
+</dataset>

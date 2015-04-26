@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: hello.UserDAOTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.389 sec <<< FAILURE! - in hello.UserDAOTest
+testUserDAO(hello.UserDAOTest)  Time elapsed: 0.388 sec  <<< ERROR!
+java.lang.ClassCastException: org.dbunit.database.DatabaseConnection cannot be cast to java.sql.Connection
+	at hello.UserDAOTest.testUserDAO(UserDAOTest.java:71)
+
